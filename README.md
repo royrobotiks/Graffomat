@@ -28,6 +28,10 @@ Various data sources can now be connected to the plotter via the serial interfac
 
 ## REALTIME CONTROL VIA INTERNET
 
-The real time control of the plotter via the Internet works via the WebSocket protocol. With this protocol, data can be transferred from the web browser to a web server without having to reload the website. The server can also transfer data back, which is then processed by a JavaScript program in the HTML document . For the plotter control, all participants transmit directions for the spray head approx. 50 times per second and the server replies to all participants with a list of all directions received. This simple echo program is written in Node.js.
+The real time control of the plotter via the Internet works via the WebSocket protocol. With this protocol, data can be transferred from the web browser to a web server without having to reload the website. The server can also transfer data back, which is then processed by a JavaScript in the browser. For the plotter control, all participants transmit directionional information for the spray head approx. 50 times per second and the server replies to all participants with a list of all directions received. This simple echo program is written in Node.js.
 
-The data transfer between the web browser and the plotter then takes place using the Web Serial API. This programming interface allows the web browser to access the serial port of the computer. In this case, the JavaScript in the web browser receives target directions from all people who remotely control the plotter at that moment. It calculates a democratic average and sends the spray head to this direction via commands through the serial port.
+The data transfer between the web browser and the plotter then takes place using the Web Serial API. This programming interface allows the web browser to access the serial port of the computer and throught that, the plotter. The JavaScript in the web browser receives target directions from every participant. It calculates a democratic average and sends the spray head to this direction, similar to operating an [Ouija board](
+https://en.wikipedia.org/wiki/Ouija). 
+
+
+

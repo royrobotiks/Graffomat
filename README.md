@@ -2,9 +2,13 @@
 
 I made a large DIY plotter for spray cans. It is powered by cordless drills and has an Arduino Nano as a brain. This README aims to explain how the plotter works. 
 
+<img alt="DIY spray can plotter" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_818.jpg"> 
+
 ## TECHNICAL DESCRIPTION OF THE PLOTTER'S MECHANICS
 
 The spray can plotter has a printing area of 2.20m * 2.00m. It is built as a classic XY gantry mechanism. The X-axis consists of 2 aluminum tubes. Two short pieces of PVC electric conduit glide on the pipes and hold the spray can mount. The can mount is pulled back and forth by a clothesline running over two pulleys, one of which is driven by a cordless screwdriver. The nozzle of the spray can is operated by a lever from an RC servo motor.
+
+<img alt="cordless drill and pulley" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_378.jpg" width="49%" height="49%"> <img alt="first version of the spray can mount" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_397.jpg" width="49%" height="49%"> 
 
 The entire X-axis, including the spray head, is suspended on the left and right via two cords that run over two pulleys at the of top frame to the bottom of the plotter, where they are wound on a long aluminum tube. Winding and unwinding the two cords by a second cordless screwdriver (Y-motor) moves the entire X-axis up and down. As the cords wind and unwind at the same speed on both sides, the X-axis does not become wedged. For further stabilization, the X-axis slides along two vertical aluminum tubes; Here, too, short sections of PVC pipe serve as linear bearings.
 

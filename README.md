@@ -36,7 +36,7 @@ For interactive real-time control, the data package can also contain target spee
 
 Various data sources can be connected to the plotter via its serial interface, such as a small SD card reader with display. Stored on the SD card are text files with coordinates, which are then transferred line by line via the serial interface. Of course, a laptop can also be connected directly,  e.g. in order to be able to remotely control the plotter worldwide in real-time via the Internet.
 
-<img alt="" src="https://niklasroy.com/diary/10/Niklas_Roy_Diary_Lores_1005.jpg" width="49%" height="49%">  <img alt="" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_484.jpg" width="49%" height="49%"> 
+<img alt="" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_462.jpg" width="49%" height="49%">  <img alt="" src="https://niklasroy.com/diary/6/Niklas_Roy_Diary_Lores_664.jpg" width="49%" height="49%"> 
 
 ## REALTIME CONTROL VIA INTERNET
 

@@ -42,6 +42,10 @@ Various data sources can be connected to the plotter via its serial interface, s
 
 The real time control of the plotter via the Internet works via the [WebSocket protocol](https://en.wikipedia.org/wiki/WebSocket). With this protocol, data can be transferred from the web browser to a web server without having to reload the website. The server can also transfer data back, which is then processed by a JavaScript in the browser. For the plotter control, all participants transmit directionional information for the spray head approx. 50 times per second and the server replies to all participants with a list of all directions received. This simple echo program is written in Node.js.
 
+<img alt="" src="https://niklasroy.com/diary/7/Niklas_Roy_Diary_Lores_745.jpg" width="32%" height="32%"> 
+<img alt="" src="https://niklasroy.com/diary/7/Niklas_Roy_Diary_Lores_747.jpg" width="32%" height="32%"> 
+<img alt="" src="https://niklasroy.com/diary/7/Niklas_Roy_Diary_Lores_751.jpg" width="32%" height="32%"> 
+
 The data transfer between the web browser and the plotter then takes place using the [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API). This programming interface allows the web browser to access the serial port of the computer and throught that, the plotter. The JavaScript in the web browser receives target directions from every participant. It calculates a democratic average and sends the spray head to this direction, similar to operating an [Ouija board](
 https://en.wikipedia.org/wiki/Ouija). 
 

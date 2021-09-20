@@ -13,6 +13,7 @@ The entire X-axis, including the spray head, is suspended on the left and right 
 The two cordless screwdrivers are DC gear motors with a rated voltage of 18V. These are each switched via an [H-bridge](https://en.wikipedia.org/wiki/H-bridge), a standard electronic circuit that looks like an "H" in the circuit diagram. This allows the polarity of the current applied to the motors to be reversed, so that the cordless screwdrivers can be turned in both directions. Variable speed control works with [pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation). This means the motors are permanently switched on and off very quickly, whereby the duration of the "on" phase varies in relation to the "off" phase.
 
 The cordless screwdriver motors have no position feedback. In order to be able to move to specific coordinates, a [black and white encoder strip](https://en.wikipedia.org/wiki/Incremental_encoder) is attached to each axis. The strip is read by two photo transistors per axis. Those optical sensors are used to count the relative position of the spray head. In order to set the absolute origin of the coordinate system, the spray head calibrates itself by moving to the upper left corner until it hits end switches.
+
 <img alt="DIY linear optical encoder" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_404.jpg" width="32%" height="32%">
 <img alt="Encoder schematics" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_391.jpg" width="32%" height="32%"> 
 

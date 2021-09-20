@@ -33,6 +33,22 @@ The real time control of the plotter via the Internet works via the [WebSocket p
 The data transfer between the web browser and the plotter then takes place using the [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API). This programming interface allows the web browser to access the serial port of the computer and throught that, the plotter. The JavaScript in the web browser receives target directions from every participant. It calculates a democratic average and sends the spray head to this direction, similar to operating an [Ouija board](
 https://en.wikipedia.org/wiki/Ouija). 
 
+## PARTS LIST
+
+1x 12V 18Ah lead-acid battery
+2x 18V cordless drills
+2x BTS7960B 43A high power H-bridge driver modules
+1x Arduino Nano
+1x XL4016 step down converter module DC-DC 5-40V
+1x RC servo
+4x BPW42 photo transistors
+4x 220 Ohm resistor
+4x 1K2 Ohm resistor
+2x 1000 uF capacitor
+4x arcade buttons (end switches and interface box)
+2x potis
+1x switch
+
 ## PLOTTER IN ACTION / TWITTER THREADS
 → [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)
 → [CMYK Test & Spontankollaboration](https://twitter.com/royrobotiks/status/1388173453719654405)

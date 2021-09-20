@@ -36,6 +36,8 @@ For interactive real-time control, the data package can also contain target spee
 
 Various data sources can be connected to the plotter via its serial interface, such as a small SD card reader with display. Stored on the SD card are text files with coordinates, which are then transferred line by line via the serial interface. Of course, a laptop can also be connected directly,  e.g. in order to be able to remotely control the plotter worldwide in real-time via the Internet.
 
+<img alt="" src="https://niklasroy.com/diary/10/Niklas_Roy_Diary_Lores_1005.jpg" width="49%" height="49%">  <img alt="" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_484.jpg" width="49%" height="49%"> 
+
 ## REALTIME CONTROL VIA INTERNET
 
 The real time control of the plotter via the Internet works via the [WebSocket protocol](https://en.wikipedia.org/wiki/WebSocket). With this protocol, data can be transferred from the web browser to a web server without having to reload the website. The server can also transfer data back, which is then processed by a JavaScript in the browser. For the plotter control, all participants transmit directionional information for the spray head approx. 50 times per second and the server replies to all participants with a list of all directions received. This simple echo program is written in Node.js.

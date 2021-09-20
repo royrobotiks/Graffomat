@@ -35,24 +35,24 @@ https://en.wikipedia.org/wiki/Ouija).
 
 ## PARTS LIST
 
-1x 12V 18Ah lead-acid battery
-2x 18V cordless drills
-2x BTS7960B 43A high power H-bridge driver modules
-1x Arduino Nano
-1x XL4016 step down converter module DC-DC 5-40V
-1x RC servo
-4x BPW42 photo transistors
-4x 220 Ohm resistor
-4x 1K2 Ohm resistor
-2x 1000 uF capacitor
-4x arcade buttons (end switches and interface box)
-2x potis
-1x switch
+- 1x 12V 18Ah lead-acid battery
+- 2x 18V cordless drills
+- 2x BTS7960B 43A high power H-bridge driver modules
+- 1x Arduino Nano
+- 1x XL4016 step down converter module DC-DC 5-40V
+- 1x RC servo
+- 4x BPW42 photo transistors
+- 4x 220 Ohm resistor
+- 4x 1K2 Ohm resistor
+- 2x 1000 uF capacitor
+- 4x arcade buttons (end switches and interface box)
+- 2x potis
+- 1x switch
 
 ## PLOTTER IN ACTION / TWITTER THREADS
-→ [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)
-→ [CMYK Test & Spontankollaboration](https://twitter.com/royrobotiks/status/1388173453719654405)
-→ [#ALGO vs OSK](https://twitter.com/royrobotiks/status/1393245371514621956)
-→ [DM von @pixtxa](https://twitter.com/royrobotiks/status/1394211939866357760)
-→ [DIY needle cap](https://twitter.com/royrobotiks/status/1397196201942978571)
+-  [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)
+-  [CMYK Test & Spontankollaboration](https://twitter.com/royrobotiks/status/1388173453719654405)
+-  [#ALGO vs OSK](https://twitter.com/royrobotiks/status/1393245371514621956)
+-  [DM von @pixtxa](https://twitter.com/royrobotiks/status/1394211939866357760)
+-  [DIY needle cap](https://twitter.com/royrobotiks/status/1397196201942978571)
 

@@ -33,7 +33,7 @@ The real time control of the plotter via the Internet works via the [WebSocket p
 The data transfer between the web browser and the plotter then takes place using the [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API). This programming interface allows the web browser to access the serial port of the computer and throught that, the plotter. The JavaScript in the web browser receives target directions from every participant. It calculates a democratic average and sends the spray head to this direction, similar to operating an [Ouija board](
 https://en.wikipedia.org/wiki/Ouija). 
 
-## PARTS LIST
+## ELECTRONIC PARTS LIST
 
 - 1x 12V 18Ah lead-acid battery
 - 2x 18V cordless drills

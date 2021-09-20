@@ -30,6 +30,8 @@ The program which runs on the controller works relatively simple: the controller
 
 For interactive real-time control, the data package can also contain target speeds instead of target coordinates for the X and Y motors. The speed information is forwarded directly to the corresponding output pins. In this case, the controller still keeps track of the position of the spray head and ensures that it only moves within a defined area.
 
+<img alt="" src="https://niklasroy.com/diary/8/Niklas_Roy_Diary_Lores_812.jpg" width="49%" height="49%">  <img alt="" src="https://niklasroy.com/diary/8/Niklas_Roy_Diary_Lores_815.jpg" width="49%" height="49%"> 
+
 ## SERIAL DATA SOURCES
 
 Various data sources can be connected to the plotter via its serial interface, such as a small SD card reader with display. Stored on the SD card are text files with coordinates, which are then transferred line by line via the serial interface. Of course, a laptop can also be connected directly,  e.g. in order to be able to remotely control the plotter worldwide in real-time via the Internet.

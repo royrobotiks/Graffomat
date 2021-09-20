@@ -1,6 +1,6 @@
 # Spray Can Plotter
 
-I made a large DIY plotter for spray cans. It is powered by cordless drills and has an Arduino Nano as a brain. This README aims to explain how the plotter works. 
+I made a large DIY plotter for spray cans. It is powered by cordless drills and has an Arduino Nano as a brain. This README explains how the plotter works and here you can also find all the source codes for this plotter.
 
 <img alt="DIY spray can plotter" src="https://niklasroy.com/diary/8/Niklas_Roy_Diary_Lores_818.jpg"> 
 

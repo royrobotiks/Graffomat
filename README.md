@@ -63,10 +63,17 @@ https://en.wikipedia.org/wiki/Ouija).
 - 2x potis
 - 1x switch
 
-## PLOTTER IN ACTION / TWITTER THREADS
+## FURTHER MEDIA LINKS
+
+### TWITTER THREADS
 -  [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)
 -  [CMYK Test & Spontankollaboration](https://twitter.com/royrobotiks/status/1388173453719654405)
 -  [#ALGO vs OSK](https://twitter.com/royrobotiks/status/1393245371514621956)
 -  [DM von @pixtxa](https://twitter.com/royrobotiks/status/1394211939866357760)
 -  [DIY needle cap](https://twitter.com/royrobotiks/status/1397196201942978571)
+
+### YOUTUBE VIDEOS
+- [Namave animation](https://www.youtube.com/watch?v=AOwUW_8Lk2o)
+- [Train writing by "The Fly"](https://www.youtube.com/watch?v=zSIdvQsu27s)
+
 

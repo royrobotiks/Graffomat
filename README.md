@@ -12,7 +12,7 @@ The spray can plotter has a printing area of 2.20m * 2.00m. It is built as a cla
 
 The entire X-axis, including the spray head, is suspended on the left and right side of the plotter frame via two cords that run over two pulleys at the of top frame to the bottom of the plotter, where they are wound on a long aluminum tube. Winding and unwinding the two cords by a second cordless screwdriver (Y-motor) moves the entire X-axis up and down. As the cords wind and unwind at the same speed on both sides, the X-axis does not become wedged. For further stabilization, the X-axis slides along two vertical aluminum tubes; Here, too, short sections of PVC pipe serve as linear bearings.
 
-<img alt="Y-axis motor" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_415.jpg" width="32%" height="32%"> <img alt="Y-axis suspended on a pulley" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_414.jpg" width="32%" height="32%"> <img alt="right side of the Y-axis" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_390.jpg" width="32%" height="32%"> 
+<img alt="1st generation can mount" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_373.jpg" width="24%" height="24%"> <img alt="Y-axis motor" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_415.jpg" width="24%" height="24%"> <img alt="Y-axis suspended on a pulley" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_414.jpg" width="24%" height="24%"> <img alt="right side of the Y-axis" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_390.jpg" width="24%" height="24%"> 
 
 ## ELECTRONICS
 

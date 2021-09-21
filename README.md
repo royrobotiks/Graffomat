@@ -78,4 +78,6 @@ https://en.wikipedia.org/wiki/Ouija).
 - [Namave animation](https://www.youtube.com/watch?v=AOwUW_8Lk2o)
 - [Train writing by "The Fly"](https://www.youtube.com/watch?v=zSIdvQsu27s)
 
+### ONLINE WORKSHOP
+- [Graffolonia material collection & documentation](https://niklasroy.com/graffolonia/) (German)
 

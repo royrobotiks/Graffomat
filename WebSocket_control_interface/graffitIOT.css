@@ -1,0 +1,65 @@
+body{
+  font-family: monospace;
+  margin:0px;
+  padding: 0px;
+  background:#ccc;
+  overflow: hidden;
+}
+#links{
+  margin:10px;
+}
+a:link {
+  text-decoration:none;
+  background-color:#eee;
+  color:#555;
+}
+a:visited {
+  text-decoration:none;
+  background-color:#eee;
+  color:#555;
+}
+a:hover {
+  text-decoration:none;
+  background-color:#0c0;
+  color:#eee;
+}
+a:active {
+  text-decoration:none;
+  background-color:#c00;
+  color:#eee;
+}
+#w100p {
+  margin:0px;
+  padding: 0px;
+  width:100%;
+  height:0px;
+  opacity: 0;
+}
+
+#h100p {
+  position:absolute;
+  top:0px;
+  margin:0px;
+  padding: 0px;
+  height:100%;
+  width: 0px;
+  opacity:0;
+}
+#arrowBox{
+  margin:10px;
+}
+#paintBar{
+  margin:10px;
+}
+#message{
+  margin:10px;
+}
+#serverState{
+  margin:10px;
+}
+#debug{
+  margin:10px;
+}
+#text{
+  margin:10px;
+}

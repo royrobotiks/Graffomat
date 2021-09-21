@@ -65,7 +65,7 @@ https://en.wikipedia.org/wiki/Ouija).
 - 2x potis
 - 1x switch
 
-## SPRAY CAN PLOTTER IN ACTION
+## PLOTTER IN ACTION
 
 ### TWITTER THREADS
 -  [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)

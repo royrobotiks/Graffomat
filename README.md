@@ -1,7 +1,6 @@
 # Graffiti Plotter
 
-I made [a large plotter for spray cans](https://niklasroy.com/graffomat). It is powered by two old cordless drills and it has an Arduino Nano as a brain. This README explains how the plotter works. You can also find all the codes for the plotter here.
-
+I made [a large plotter for spray cans](https://niklasroy.com/graffomat). It is powered by two old cordless drills and it has an Arduino Nano as a brain. This README explains how the plotter works and you can find all the codes for the machine in this repo.
 <img alt="DIY spray can plotter" src="https://github.com/royrobotiks/SprayCanPlotter/blob/main/plotter.jpg"> 
 
 ## TECHNICAL DESCRIPTION OF THE PLOTTER'S MECHANICS

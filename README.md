@@ -6,6 +6,8 @@ I made a large plotter for spray cans. It is powered by two old cordless drills 
 
 ## TECHNICAL DESCRIPTION OF THE PLOTTER'S MECHANICS
 
+When making the machine, I based all decisions on a few principles: I wanted the plotter to be cheap, lightweight and I also wanted to build it very fast. Everything is basically just zip‑tied together and besides the electronic parts, I tried to use only stuff which I had anyway in my basement or which I could easily get at the hardware store. 
+
 The plotter has a printing area of 2.20m * 2.00m. It is built as a classic XY gantry mechanism. The X-axis consists of 2 aluminum tubes. Two short pieces of PVC electric conduit glide on the pipes and hold the spray can mount. The can mount is pulled back and forth by a clothesline running over two pulleys, one of which is powered by a cordless drill. The nozzle of the spray can is pushed by an RC servo motor via a lever.
 
 <img alt="cordless drill and pulley" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_378.jpg" width="49%" height="49%"> <img alt="first version of the spray can mount" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_397.jpg" width="49%" height="49%"> 
@@ -18,7 +20,7 @@ The X-axis assembly, including the spray head, is suspended on the left and righ
 
 The two cordless drills are DC gear motors with a rated voltage of 18V. Each of them is switched via an [H-bridge](https://en.wikipedia.org/wiki/H-bridge), a standard electronic circuit that looks like an "H" in the schematic. The H-bridges allow the polarity of the current to be reversed, so that the drills can be turned in both directions. Variable speed control works with [pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation). This means the motors are switched on and off very quickly, whereby the duration of the "on" phase varies in relation to the duration of the "off" phase.
 
-The cordless drill motors have no position feedback. The cordless drill motors have no position feedback. In order to be able to move the spray can to specific coordinates, a [black and white encoder strip](https://en.wikipedia.org/wiki/Incremental_encoder) is attached to each axis. The strip is read by two photo transistors per axis. Those optical sensors are used to count the relative position of the spray head. In order to set the absolute origin of the coordinate system, the spray head calibrates itself by moving to the upper left corner until it hits end switches.
+The cordless drill motors have no position feedback. The cordless drill motors have no position feedback. In order to be able to move the spray can to specific coordinates, a [black and white encoder strip](https://en.wikipedia.org/wiki/Incremental_encoder) is attached to each axis. The strips are made out of adhesive tape and they are read by by two photo transistors per axis. Those optical sensors are used to count the relative position of the spray head. In order to set the absolute origin of the coordinate system, the spray head calibrates itself by moving to the upper left corner until it hits end switches.
 
 <img alt="DIY linear optical encoder" src="https://niklasroy.com/diary/4/Niklas_Roy_Diary_Lores_404.jpg" width="32%" height="32%"> <img alt="Encoder schematics" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_395.jpg" width="32%" height="32%"> <img alt="Encoder schematics" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_391.jpg" width="32%" height="32%"> 
 
@@ -52,15 +54,15 @@ https://en.wikipedia.org/wiki/Ouija).
 I built the plotter without drawing any plans or schematics beforehand, therefore I cannot provide circuit diagrams. However, below is a list of parts and modules, which I used. If you plan to build something similar, this list might be useful. 
 
 ### ELECTRONIC PARTS LIST
-
 - 1x 12V 18Ah lead-acid battery
 - 2x 18V cordless drills
 - 2x BTS7960B 43A high power H-bridge driver modules
 - 1x Arduino Nano
 - 1x XL4016 step down converter module DC-DC 5-40V
-- 1x RC servo
+- 1x RC Servo
 - 4x BPW42 photo transistors
-- 4x 220 Ohm resistor
+- 4x LED's
+- 8x 220 Ohm resistor
 - 4x 1K2 Ohm resistor
 - 2x 1000 uF capacitor
 - 4x arcade buttons (end switches and interface box)

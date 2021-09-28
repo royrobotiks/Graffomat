@@ -69,6 +69,9 @@ I built the plotter without drawing any plans or schematics beforehand, therefor
 
 ## PLOTTER IN ACTION
 
+### DOCUMENTATION ON MY WEBSITE
+- [niklasroy.com/graffomat](https://niklasroy.com/graffomat/)
+
 ### TWITTER THREADS
 -  [Hello World](https://twitter.com/royrobotiks/status/1382610619300478977)
 -  [CMYK Test & Spontankollaboration](https://twitter.com/royrobotiks/status/1388173453719654405)
@@ -76,8 +79,11 @@ I built the plotter without drawing any plans or schematics beforehand, therefor
 -  [DM von @pixtxa](https://twitter.com/royrobotiks/status/1394211939866357760)
 -  [DIY needle cap](https://twitter.com/royrobotiks/status/1397196201942978571)
 
-### YOUTUBE VIDEOS
-- [Namave animation](https://www.youtube.com/watch?v=AOwUW_8Lk2o)
+### VIDEOS
+- [GRAFFOMAT video (Youtube)](https://www.youtube.com/watch?v=Pz5CftU_bJw)
+- [GRAFFOMAT video (archive.org)](https://archive.org/details/graffomat)
+- [Namave animation (Youtube)](https://www.youtube.com/watch?v=AOwUW_8Lk2o)
+- [Namave animation (archive.org)](https://archive.org/details/namave_sound_titles_11)      
 - [Train writing by "The Fly"](https://www.youtube.com/watch?v=zSIdvQsu27s)
 
 ### ONLINE WORKSHOP

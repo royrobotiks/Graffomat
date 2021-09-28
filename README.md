@@ -51,7 +51,7 @@ https://en.wikipedia.org/wiki/Ouija).
 
 ## HARDWARE
 
-I built the plotter without drawing any plans or schematics beforehand, therefore I cannot provide circuit diagrams. However, below is a list of parts and modules, which I used. If you plan to build something similar, this list might be useful. 
+Besides the [encoder schematics](https://niklasroy.com/diary/3/Niklas_Roy_Diary_391.jpg), I built the plotter without drawing any plans or schematics beforehand, therefore I cannot provide circuit diagrams. However, below is a list of parts and modules, which I used. If you plan to build something similar, this list might be useful. 
 
 ### ELECTRONIC PARTS LIST
 - 1x 12V 18Ah lead-acid battery

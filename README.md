@@ -6,7 +6,7 @@ I made a large plotter for spray cans. It is powered by two old cordless drills 
 
 ## TECHNICAL DESCRIPTION OF THE PLOTTER'S MECHANICS
 
-The plotter has a printing area of 2.20m * 2.00m. It is built as a classic XY gantry mechanism. The X-axis consists of 2 aluminum tubes. Two short pieces of PVC electric conduit glide on the pipes and hold the spray can mount. The can mount is pulled back and forth by a clothesline running over two pulleys, one of which is driven by a cordless screwdriver. The nozzle of the spray can is operated by a lever from an RC servo motor.
+The plotter has a printing area of 2.20m * 2.00m. It is built as a classic XY gantry mechanism. The X-axis consists of 2 aluminum tubes. Two short pieces of PVC electric conduit glide on the pipes and hold the spray can mount. The can mount is pulled back and forth by a clothesline running over two pulleys, one of which is driven by a cordless screwdriver. The nozzle of the spray can is operated by an RC servo motor via a lever.
 
 <img alt="cordless drill and pulley" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_378.jpg" width="49%" height="49%"> <img alt="first version of the spray can mount" src="https://niklasroy.com/diary/3/Niklas_Roy_Diary_Lores_397.jpg" width="49%" height="49%"> 
 
